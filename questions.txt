@@ -1,0 +1,465 @@
+What is the purpose of the website?
+a) To promote a product or service
+b) To provide information
+c) To sell products or services
+d) Other
+
+Who is the target audience for the website?
+a) General public
+b) Business professionals
+c) Young adults
+d) Other
+
+What sets you apart from your competitors?
+a) Lower prices
+b) Unique product offerings
+c) Better customer service
+d) Other
+
+What features do you want on your website?
+a) Contact form
+b) E-commerce store
+c) Blog
+d) Other
+
+What is your budget for the website?
+a) Less than $1,000
+b) $1,000 - $5,000
+c) $5,000 - $10,000
+d) More than $10,000
+
+What is your timeline for the website?
+a) Less than 1 month
+b) 1-3 months
+c) 3-6 months
+d) More than 6 months
+
+Will you need e-commerce functionality on the website?
+a) Yes
+b) No
+
+Will the website require integration with any third-party tools or services?
+a) Yes
+b) No
+
+Will the website need to be optimized for search engines (SEO)?
+a) Yes
+b) No
+
+Will you need website hosting and maintenance services?
+a) Yes
+b) No
+
+Do you have any website security concerns?
+a) Yes
+b) No
+
+Will you need a website privacy policy and terms of use?
+a) Yes
+b) No
+
+Will the website require any custom functionality or programming?
+a) Yes
+b) No
+
+Do you want to include a blog on your website?
+a) Yes
+b) No
+
+Do you want to include social media icons on your website?
+a) Yes
+b) No
+
+Do you want to include a newsletter sign-up form on your website?
+a) Yes
+b) No
+
+What are the design and branding guidelines for the website?
+a) Minimalistic
+b) Bright and colorful
+c) Professional
+d) Other
+
+What are the technical requirements for the website?
+a) High-speed hosting
+b) Responsive design
+c) Secure payment gateway
+d) Other
+
+What are the security and privacy requirements for the website?
+a) SSL encryption
+b) Two-factor authentication
+c) Regular backups
+d) Other
+
+What are the SEO requirements for the website?
+a) Keyword optimization
+b) High-quality backlinks
+c) Mobile-friendliness
+d) Other
+
+What is the purpose of the website?
+a) To sell products/services
+b) To promote a brand or organization
+c) To provide information or resources
+d) Other (please specify)
+
+Who is the target audience for the website?
+a) General public
+b) Business-to-business (B2B) customers
+c) Specific demographic group (please specify)
+d) Other (please specify)
+
+What is the unique value proposition of your business?
+a) High-quality products/services
+b) Low prices
+c) Exceptional customer service
+d) Innovative technology or features
+e) Other (please specify)
+
+Who are your competitors?
+a) Direct competitors (in the same industry and market)
+b) Indirect competitors (in a related industry or market)
+c) Both direct and indirect competitors
+d) No competitors
+
+Will your site have a place for users to buy products or book services?
+a) Yes
+b) No
+c) Not sure
+
+If you had to pick, would you prefer a more professional, or friendly design?
+a) Professional
+b) Friendly
+c) Balanced
+d) Not sure
+
+What sets you apart from your competitors?
+a) Unique products/services
+b) Superior quality or features
+c) Lower prices
+d) Better customer service
+e) Other (please specify)
+
+What features do you want on your website?
+a) Contact form
+b) E-commerce functionality
+c) Blog
+d) Social media integration
+e) Photo gallery
+f) Testimonials section
+g) Team members section
+h) Portfolio section
+i) FAQ section
+j) Other (please specify)
+
+Do you have any specific design preferences?
+a) Minimalist
+b) Bold and colorful
+c) Modern and sleek
+d) Vintage or retro
+e) Other (please specify)
+f) Not sure
+
+Do you have a preferred color scheme?
+a) Yes
+b) No
+c) Not sure
+
+What is your budget for the website?
+a) Less than $1,000
+b) $1,000 - $5,000
+c) $5,000 - $10,000
+d) $10,000 - $20,000
+e) Over $20,000
+f) Not sure
+
+What is your timeline for the website?
+a) Less than a month
+b) 1-3 months
+c) 3-6 months
+d) 6-12 months
+e) Over a year
+f) Not sure
+
+Will you need help with creating content for the website?
+a) Yes
+b) No
+c) Not sure
+
+Will you need e-commerce functionality on the website?
+a) Yes
+b) No
+c) Not sure
+
+Will the website require integration with any third-party tools or services?
+a) Yes
+b) No
+c) Not sure
+
+Will the website need to be optimized for search engines (SEO)?
+a) Yes
+b) No
+c) Not sure
+
+Will the website need to be mobile-friendly and responsive?
+a) Yes
+b) No
+c) Not sure
+
+Do you need a contact form or any other types of forms on the website?
+a) Yes
+b) No
+c) Not sure
+
+Do you have any social media profiles that you want to link to the website?
+a) Yes
+b) No
+c) Not sure
+
+Will you need website hosting and maintenance services?
+a) Yes
+b) No
+c) Not sure
+
+Do you have any website security concerns?
+a) Yes
+b) No
+c) Not sure
+
+Will you need a website privacy policy and terms of use?
+a) Yes
+b) No
+c) Not sure
+
+What are the design and branding guidelines for the website?
+A. Minimalist
+B. Colorful
+C. Professional
+D. Playful
+
+What are the technical requirements for the website?
+A. HTML, CSS, and JavaScript
+B. PHP and MySQL
+C. Python and Django
+D. Ruby on Rails
+
+What are the security and privacy requirements for the website?
+A. HTTPS and SSL certificate
+B. Two-factor authentication
+C. Data encryption
+D. Firewall and antivirus
+
+What are the legal requirements for the website?
+A. Terms of Use and Privacy Policy
+B. GDPR compliance
+C. COPPA compliance
+D. PCI DSS compliance
+
+What are the accessibility requirements for the website?
+A. WCAG 2.1 compliance
+B. Screen reader compatibility
+C. Keyboard navigation
+D. High contrast mode
+
+What are the SEO requirements for the website?
+A. Keyword optimization
+B. Metadata optimization
+C. Content quality and relevance
+D. Mobile-friendliness
+
+What are the analytics and tracking requirements for the website?
+A. Google Analytics integration
+B. Conversion tracking
+C. Heatmap tracking
+D. User behavior analysis
+
+What are the hosting and server requirements for the website?
+A. Shared hosting
+B. VPS hosting
+C. Dedicated server
+D. Cloud hosting
+
+What are the content management requirements for the website?
+A. WordPress
+B. Drupal
+C. Joomla
+D. Custom CMS
+
+What are the e-commerce requirements for the website?
+A. Shopping cart
+B. Product catalog
+C. Payment gateway integration
+D. Order management system
+
+What are the social media integration requirements for the website?
+A. Social sharing buttons
+B. Social media feed integration
+C. Social login
+D. Social media advertising integration
+
+What are the mobile responsiveness requirements for the website?
+A. Responsive design
+B. Mobile-first design
+C. AMP integration
+D. Mobile app development
+
+What are the performance and speed requirements for the website?
+A. Page load time under 3 seconds
+B. Minimized HTTP requests
+C. Caching and compression
+D. CDN integration
+
+What are the testing and QA requirements for the website?
+A. Functional testing
+B. Usability testing
+C. Performance testing
+D. Cross-browser testing
+
+What are the backup and disaster recovery requirements for the website?
+A. Daily backups
+B. Off-site backups
+C. Disaster recovery plan
+D. Regular testing of backups and recovery plan
+
+What are the maintenance and support requirements for the website?
+A. Regular software updates
+B. Technical support
+C. Bug fixes and troubleshooting
+D. Regular backups and disaster recovery testing
+
+What are the payment gateway and SSL requirements for the website?
+A. PayPal integration
+B. Stripe integration
+C. SSL certificate
+D. PCI DSS compliance
+
+What are the authentication and authorization requirements for the website?
+A. User login and registration
+B. Role-based access control
+C. OAuth integration
+D. Single sign-on (SSO) integration
+
+What are the data storage and management requirements for the website?
+A. MySQL database
+B. PostgreSQL database
+C. NoSQL database
+D. Data encryption and security measures
+
+What are the email marketing and newsletter requirements for the website?
+A. Newsletter signup form
+B. Automated email campaigns
+C. Email marketing software integration
+D. A/B testing and analysis
+
+What are the user engagement and retention requirements for the website?
+A. User reviews and ratings
+B. Gamification features
+C. Loyalty program
+D. Personalized recommendations
+
+What are the training and documentation requirements for the website?
+A. User manual and help documentation
+B. Video tutorials
+C. Knowledge base
+D.
+
+What are the technical requirements for the website?
+
+A. HTML/CSS/JavaScript
+B. PHP/MySQL
+C. ASP.NET/Microsoft SQL Server
+D. Other (please specify)
+What are the security and privacy requirements for the website?
+
+A. SSL certificate
+B. Two-factor authentication
+C. Encrypted storage of user data
+D. Regular security audits
+E. All of the above
+F. None of the above
+What are the legal requirements for the website?
+
+A. Compliance with GDPR or other data privacy regulations
+B. Compliance with COPPA or other child protection regulations
+C. Compliance with ADA or other accessibility regulations
+D. Compliance with FTC or other advertising regulations
+E. All of the above
+F. None of the above
+What are the accessibility requirements for the website?
+
+A. Compliance with WCAG 2.1 AA standards
+B. Use of alt tags for images
+C. Keyboard navigation support
+D. High contrast and large font options
+E. All of the above
+F. None of the above
+What are the SEO (Search Engine Optimization) requirements for the website?
+
+A. Proper use of meta tags
+B. Optimized URL structure
+C. Mobile responsiveness
+D. Fast page load times
+E. All of the above
+F. None of the above
+What are the hosting and server requirements for the website?
+
+A. Shared hosting
+B. VPS (Virtual Private Server) hosting
+C. Dedicated server hosting
+D. Cloud hosting
+E. All of the above
+F. None of the above
+What are the content management requirements for the website?
+
+A. Use of a CMS (Content Management System)
+B. Ability to easily update and publish new content
+C. Customizable page templates
+D. User role management
+E. All of the above
+F. None of the above
+What are the e-commerce requirements for the website?
+
+A. Product catalog management
+B. Shopping cart functionality
+C. Payment gateway integration
+D. Order management system
+E. All of the above
+F. None of the above
+What are the social media integration requirements for the website?
+
+A. Ability to share content on social media platforms
+B. Integration with social media feeds
+C. Social login functionality
+D. User profile management
+E. All of the above
+F. None of the above
+What are the mobile responsiveness requirements for the website?
+
+A. Fully responsive design
+B. Mobile-specific layout options
+C. Touch-friendly navigation
+D. Optimized image and video display
+E. All of the above
+F. None of the above
+What are the performance and speed requirements for the website?
+
+A. Fast page load times
+B. Efficient code and server resources
+C. Minimized use of external resources (e.g. images, videos)
+D. Use of caching and compression techniques
+E. All of the above
+F. None of the above
+What are the testing and QA requirements for the website?
+
+A. Thorough testing of all functionality and features
+B. User acceptance testing
+C. Bug tracking and issue resolution
+D. Regular software updates and maintenance
+E. All of the above
+F. None of the above
+What are the backup and disaster recovery requirements for the website?
+
+A. Regular backups of website data and files
+B. Disaster recovery plan in place
+C. Off
